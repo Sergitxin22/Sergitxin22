@@ -1,6 +1,6 @@
 <div align="center">
 
-[🇬🇧 English](hola.md) · [🇪🇸 Español](hola-es.md)
+[🇬🇧 English](README.md) · [🇪🇸 Español](hola-es.md)
 
 # Hola, soy Sergio 👋
 
