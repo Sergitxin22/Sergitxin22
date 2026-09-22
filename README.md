@@ -58,10 +58,9 @@ An interactive platform focused on helping developers learn programming through 
 
 **TypeScript · Web · Education**
 
-🔗 `Private repository`
+[Visit website →](https://devpath.es/)
 
 </td>
-<td width="50%">
 
 ### 🏗️ HackUPC 2025
 
