@@ -61,6 +61,7 @@ An interactive platform focused on helping developers learn programming through 
 [Visit website →](https://devpath.es/)
 
 </td>
+<td width="50%">
 
 ### 🏗️ HackUPC 2025
 
