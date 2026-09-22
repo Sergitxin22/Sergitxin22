@@ -154,7 +154,7 @@ Camarero robótico usando **SO-101**, aprendizaje por imitación, Gemini y WebSo
 
 2025
 
-Data Center Designer — trabajando en eficiencia energética y optimización de infraestructura.
+Data Center Designer - trabajando en eficiencia energética y optimización de infraestructura.
 
 </td>
 <td align="center" width="33%">
@@ -233,7 +233,7 @@ Trabajé en aplicaciones web y multiplataforma usando tecnologías como **Angula
 
 ### Universidad de Deusto
 
-**Ingeniería Informática · 2023 — Actualidad**
+**Ingeniería Informática · 2023 - Actualidad**
 
 Interesado en ingeniería de software, desarrollo web, algoritmos, sistemas y en construir cosas que funcionen de verdad fuera de un aula.
 
