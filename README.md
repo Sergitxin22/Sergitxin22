@@ -1,5 +1,7 @@
 <div align="center">
 
+[🇬🇧 English](README.md) · [🇪🇸 Español](hola-es.md)
+
 # Hey, I'm Sergio 👋
 
 ### Full Stack Developer · Computer Engineering Student · Builder
@@ -211,7 +213,7 @@ I currently carry out my research work at DeustoTech, where I take part in a pro
 
 ### Deusto LearningLab
 
-**Web Developer · 2025 — Present**
+**Web Developer**
 
 Working on educational web experiences and interactive applications.
 
