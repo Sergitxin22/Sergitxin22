@@ -154,7 +154,7 @@ Robotic bartender using **SO-101**, imitation learning, Gemini and WebSockets.
 
 2025
 
-Data Center Designer — working on energy efficiency and infrastructure optimization.
+Data Center Designer - working on energy efficiency and infrastructure optimization.
 
 </td>
 <td align="center" width="33%">
@@ -233,7 +233,7 @@ Worked on web and multiplatform applications using technologies including **Angu
 
 ### University of Deusto
 
-**Computer Engineering · 2023 — Present**
+**Computer Engineering · 2023 - Present**
 
 Interested in software engineering, web development, algorithms, systems and building things that actually work outside of a classroom.
 
